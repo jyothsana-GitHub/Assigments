@@ -9,5 +9,5 @@ def perm(posint):
 	for i in permlist:
 		print (' '.join(map(str, i)))
 
-#Test
+
 perm(3)
