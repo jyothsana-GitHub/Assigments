@@ -71,3 +71,5 @@ while i>0 and j> 0:
         j -= 1
 print(s_prim[::-1])
 print(t_prim[::-1])
+
+#input should be given in s and t initially
