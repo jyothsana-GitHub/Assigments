@@ -1,4 +1,4 @@
-#Method 2:
+#Method 1:
     
     from Bio import SeqIO
 
